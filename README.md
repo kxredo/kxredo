@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in Mobile App Development and Cybersecurity
+Interest in Mobile App Development, Game Development, Hardware & Network
 
 
 ## 🌐 Socials:
