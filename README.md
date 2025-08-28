@@ -4,5 +4,5 @@ Passionate about **mobile app development**, **web development**, **cloud**, and
 
 I like to blend **functionality** with **aesthetic design** 🎨
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,js,python,git,linux,aws)](https://skillicons.dev)
 
